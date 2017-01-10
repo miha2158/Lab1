@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Task1\Task3\bin\Release\Task3.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Task1\Task3\bin\Release\Task3.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Task1\Task3\bin\Release\Task3.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Task1\Task3\obj\Release\Task3.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Task1\Task3\obj\Release\Task3.pdb
